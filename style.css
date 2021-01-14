@@ -3,3 +3,14 @@
     background-color: lightblue;
   }
 }
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    75deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(71, 71, 166, 1) 50%,
+    rgba(2, 0, 36, 1) 100%
+  );
+  margin: 0px;
+  padding: 0px;
+}
